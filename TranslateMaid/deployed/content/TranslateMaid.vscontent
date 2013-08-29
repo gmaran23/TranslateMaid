@@ -1,0 +1,10 @@
+<VSContent xmlns="http://schemas.microsoft.com/developer/vscontent/2005"> 
+    <Content>
+        <FileName>TranslateMaid.AddIn</FileName>
+        <FileName>TranslateMaid.dll</FileName>
+        <DisplayName>TryTranslate</DisplayName>
+        <Description>TryTranslate - Translates selected text in visual studio code window</Description>
+        <FileContentType>Addin</FileContentType>
+        <ContentVersion>2.0</ContentVersion>
+    </Content>
+</VSContent>
